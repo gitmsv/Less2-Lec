@@ -1,5 +1,5 @@
 /*
- * This Class )))
+ * This Class for number
  */
 package ua.jvlab.mslnk;
 
